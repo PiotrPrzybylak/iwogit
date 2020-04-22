@@ -1,1 +1,1 @@
-select date from dual
+select date from dual join dupa2
