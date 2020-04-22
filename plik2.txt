@@ -1,1 +1,1 @@
-select nic1 from costam1;
+select nic3 from costam1;

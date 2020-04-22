@@ -1,0 +1,4 @@
+select nic3 from costam1;
+
+git init - dodawanie projektu
+
