@@ -1,0 +1,1 @@
+select nic1 from costam1;
