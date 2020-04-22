@@ -1,1 +1,1 @@
-select date, null from dual;
+select date, null, null from dual;
